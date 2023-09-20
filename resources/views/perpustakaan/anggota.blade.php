@@ -1,4 +1,4 @@
-@extends('separatephp.master')
+@extends('separate.master')
 
 @section('content')
 <div class="card card-primary">
